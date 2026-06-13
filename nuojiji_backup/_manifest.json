@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1781333443115,
+  "timestamp": 1781333449473,
   "appVersion": "6.8.2 (2026.06.13)",
   "tables": [
     "characters",
@@ -107,7 +107,9 @@
     "customGames": true,
     "customWidgetTemplates": true,
     "customWidgetState": true,
-    "pomodoroData": true
+    "pomodoroData": true,
+    "regexRules": true,
+    "mcpServers": true
   },
   "inProgress": true
 }
