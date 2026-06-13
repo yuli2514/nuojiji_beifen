@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1781333235007,
+  "timestamp": 1781333246147,
   "appVersion": "6.8.2 (2026.06.13)",
   "tables": [
     "characters",
@@ -63,7 +63,7 @@
     "_migration"
   ],
   "chunkedTables": {
-    "messages": 8
+    "messages": 2
   },
   "completedTables": {
     "characters": true,
@@ -72,8 +72,7 @@
     "kaomojis": true,
     "users": true,
     "userState": true,
-    "userPosts": true,
-    "chatSettings": true
+    "userPosts": true
   },
   "inProgress": true
 }
