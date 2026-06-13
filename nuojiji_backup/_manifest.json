@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1781333469969,
+  "timestamp": 1781333476448,
   "appVersion": "6.8.2 (2026.06.13)",
   "tables": [
     "characters",
@@ -63,7 +63,7 @@
     "_migration"
   ],
   "chunkedTables": {
-    "messages": 9
+    "messages": 12
   },
   "completedTables": {
     "characters": true,
@@ -73,7 +73,6 @@
     "users": true,
     "userState": true,
     "userPosts": true,
-    "chatSettings": true,
     "favorites": true,
     "memory": true,
     "summaryEntries": true,
@@ -83,39 +82,9 @@
     "tmStories": true,
     "multiSceneSessions": true,
     "multiSceneStories": true,
-    "multiSceneCastSettings": true,
     "multiSceneSessionSettings": true,
     "multiSceneSessionSummaries": true,
-    "customNoises": true,
-    "flashMoments": true,
-    "groupSettings": true,
-    "userLinks": true,
-    "userMessages": true,
-    "ttsAudio": true,
-    "forumData": true,
-    "calendarData": true,
-    "groupChats": true,
-    "xinsheng": true,
-    "pomodoroSessions": true,
-    "couplesData": true,
-    "imageStore": true,
-    "stickerStore": true,
-    "quickReplies": true,
-    "goingOutState": true,
-    "goingOutAreas": true,
-    "mapRasterCache": true,
-    "customGames": true,
-    "customWidgetTemplates": true,
-    "customWidgetState": true,
-    "pomodoroData": true,
-    "regexRules": true,
-    "mcpServers": true,
-    "thinkingStore": true,
-    "commitments": true,
-    "characterLifeState": true,
-    "chikanPhoneSkins": true,
-    "healthEntries": true,
-    "homelandState": true
+    "flashMoments": true
   },
   "inProgress": true
 }
