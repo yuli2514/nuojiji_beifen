@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1781790756643,
+  "timestamp": 1781790763205,
   "appVersion": "6.8.7 (2026.06.13)",
   "tables": [
     "characters",
@@ -98,7 +98,9 @@
     "customGames": true,
     "customWidgetTemplates": true,
     "customWidgetState": true,
-    "wallpapers": true
+    "wallpapers": true,
+    "whiteDogData": true,
+    "isekaiSaves": true
   },
   "inProgress": true
 }
