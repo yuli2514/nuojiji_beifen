@@ -1,7 +1,7 @@
 {
   "version": 6,
-  "timestamp": 1781790649738,
-  "appVersion": "6.8.7 (2026.06.13)",
+  "timestamp": 1781790657265,
+  "appVersion": "auto-backup",
   "tables": [
     "characters",
     "worldBooks",
@@ -63,20 +63,48 @@
     "_migration"
   ],
   "chunkedTables": {
-    "messages": 17
+    "stickers": 6,
+    "messages": 322,
+    "summaryEntries": 2,
+    "tmStories": 14,
+    "imageStore": 2
   },
   "completedTables": {
+    "characters": true,
     "worldBooks": true,
-    "globalSettings": true,
     "kaomojis": true,
     "users": true,
     "userState": true,
     "userPosts": true,
+    "chatSettings": true,
     "favorites": true,
-    "summaryEntries": true,
-    "tmStories": true,
-    "multiSceneSessions": true,
-    "multiSceneStories": true
+    "memory": true,
+    "callLogs": true,
+    "roleStickers": true,
+    "tmSessions": true,
+    "multiSceneStories": true,
+    "multiSceneSessionSettings": true,
+    "multiSceneSessionSummaries": true,
+    "customNoises": true,
+    "flashMoments": true,
+    "groupSettings": true,
+    "userLinks": true,
+    "userMessages": true,
+    "ttsAudio": true,
+    "forumData": true,
+    "calendarData": true,
+    "groupChats": true,
+    "pomodoroSessions": true,
+    "couplesData": true,
+    "stickerStore": true,
+    "quickReplies": true,
+    "goingOutState": true,
+    "goingOutAreas": true,
+    "mapRasterCache": true,
+    "customWidgetTemplates": true,
+    "customWidgetState": true,
+    "wallpapers": true
   },
+  "source": "auto",
   "inProgress": true
 }
