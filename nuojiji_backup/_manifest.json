@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1781790802409,
+  "timestamp": 1781790804620,
   "appVersion": "6.8.7 (2026.06.13)",
   "tables": [
     "characters",
@@ -113,5 +113,5 @@
     "homelandState": true,
     "_migration": true
   },
-  "inProgress": true
+  "inProgress": false
 }
