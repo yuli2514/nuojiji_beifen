@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1783788852867,
+  "timestamp": 1783788860338,
   "appVersion": "6.9.22 (2026.07.07)",
   "tables": [
     "characters",
@@ -69,7 +69,7 @@
   ],
   "chunkedTables": {
     "stickers": 6,
-    "messages": 3
+    "messages": 4
   },
   "completedTables": {
     "characters": true,
