@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1783789112492,
+  "timestamp": 1783789117621,
   "appVersion": "6.9.22 (2026.07.07)",
   "tables": [
     "characters",
@@ -82,7 +82,8 @@
     "favorites": true,
     "memory": true,
     "summaryEntries": true,
-    "roleStickers": true
+    "roleStickers": true,
+    "tmSessions": true
   },
   "inProgress": true
 }
