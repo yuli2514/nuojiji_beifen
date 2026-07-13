@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1783935461211,
+  "timestamp": 1783955713531,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -61,21 +61,12 @@
     "healthProfile",
     "homelandState",
     "fontStore",
+    "customBgm",
+    "radioData",
+    "isekaiPresets",
+    "naiVibeCache",
     "_migration"
   ],
-  "chunkedTables": {
-    "stickers": 2,
-    "messages": 79
-  },
-  "completedTables": {
-    "characters": true,
-    "worldBooks": true,
-    "kaomojis": true,
-    "users": true,
-    "userState": true,
-    "userPosts": true,
-    "chatSettings": true
-  },
   "source": "auto",
   "inProgress": true
 }
