@@ -1,7 +1,7 @@
 {
   "version": 6,
-  "timestamp": 1785408833401,
-  "appVersion": "6.9.30 (2026.07.20)",
+  "timestamp": 1785412126467,
+  "appVersion": "auto-backup",
   "tables": [
     "characters",
     "worldBooks",
@@ -27,7 +27,6 @@
     "multiSceneSummaries",
     "multiSceneSessionSummaries",
     "customNoises",
-    "customBgm",
     "flashMoments",
     "groupSettings",
     "userLinks",
@@ -51,7 +50,6 @@
     "wallpapers",
     "whiteDogData",
     "isekaiSaves",
-    "isekaiPresets",
     "pomodoroData",
     "regexRules",
     "mcpServers",
@@ -63,18 +61,12 @@
     "healthProfile",
     "homelandState",
     "fontStore",
+    "customBgm",
     "radioData",
-    "novelBooks",
-    "novelChapters",
-    "coReadBooks",
-    "coReadChapters",
-    "coReadSessions",
+    "isekaiPresets",
     "naiVibeCache",
     "_migration"
   ],
-  "completedTables": {
-    "characters": true,
-    "worldBooks": true
-  },
+  "source": "auto",
   "inProgress": true
 }
