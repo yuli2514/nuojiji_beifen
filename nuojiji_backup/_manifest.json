@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1785982285090,
+  "timestamp": 1785982295725,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -67,6 +67,10 @@
     "naiVibeCache",
     "_migration"
   ],
+  "completedTables": {
+    "characters": true,
+    "worldBooks": true
+  },
   "source": "auto",
   "inProgress": true
 }
