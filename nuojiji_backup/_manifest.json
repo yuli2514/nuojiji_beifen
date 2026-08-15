@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1786799902936,
+  "timestamp": 1786799908158,
   "appVersion": "6.9.30 (2026.07.20)",
   "tables": [
     "characters",
@@ -127,7 +127,8 @@
     "novelBooks": true,
     "novelChapters": true,
     "coReadBooks": true,
-    "coReadChapters": true
+    "coReadChapters": true,
+    "coReadSessions": true
   },
   "inProgress": true
 }
