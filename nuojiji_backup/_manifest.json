@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1786799165888,
+  "timestamp": 1786799177815,
   "appVersion": "6.9.30 (2026.07.20)",
   "tables": [
     "characters",
@@ -74,7 +74,8 @@
   ],
   "chunkedTables": {
     "stickers": 9,
-    "messages": 1
+    "messages": 1,
+    "tmStories": 1
   },
   "completedTables": {
     "characters": true,
@@ -86,7 +87,8 @@
     "favorites": true,
     "summaryEntries": true,
     "callLogs": true,
-    "roleStickers": true
+    "roleStickers": true,
+    "tmSessions": true
   },
   "inProgress": true
 }
