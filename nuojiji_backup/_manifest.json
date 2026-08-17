@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1786978963027,
+  "timestamp": 1786979097390,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -68,7 +68,8 @@
     "_migration"
   ],
   "chunkedTables": {
-    "messages": 1
+    "messages": 1,
+    "tmStories": 1
   },
   "completedTables": {
     "worldBooks": true,
@@ -79,7 +80,8 @@
     "memory": true,
     "summaryEntries": true,
     "callLogs": true,
-    "roleStickers": true
+    "roleStickers": true,
+    "multiSceneSessions": true
   },
   "source": "auto",
   "inProgress": true
