@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1787109533110,
+  "timestamp": 1787124550827,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -67,40 +67,6 @@
     "naiVibeCache",
     "_migration"
   ],
-  "chunkedTables": {
-    "stickers": 3,
-    "messages": 48
-  },
-  "completedTables": {
-    "characters": true,
-    "worldBooks": true,
-    "globalSettings": true,
-    "kaomojis": true,
-    "users": true,
-    "userState": true,
-    "userPosts": true,
-    "chatSettings": true,
-    "customWidgetState": true,
-    "wallpapers": true,
-    "whiteDogData": true,
-    "isekaiSaves": true,
-    "pomodoroData": true,
-    "regexRules": true,
-    "mcpServers": true,
-    "thinkingStore": true,
-    "commitments": true,
-    "characterLifeState": true,
-    "chikanPhoneSkins": true,
-    "healthEntries": true,
-    "healthProfile": true,
-    "homelandState": true,
-    "fontStore": true,
-    "customBgm": true,
-    "radioData": true,
-    "isekaiPresets": true,
-    "naiVibeCache": true,
-    "_migration": true
-  },
   "source": "auto",
-  "inProgress": false
+  "inProgress": true
 }
