@@ -1,7 +1,7 @@
 {
   "version": 6,
-  "timestamp": 1787130016347,
-  "appVersion": "auto-backup",
+  "timestamp": 1787130022628,
+  "appVersion": "6.9.30 (2026.07.20)",
   "tables": [
     "characters",
     "worldBooks",
@@ -27,6 +27,7 @@
     "multiSceneSummaries",
     "multiSceneSessionSummaries",
     "customNoises",
+    "customBgm",
     "flashMoments",
     "groupSettings",
     "userLinks",
@@ -50,6 +51,7 @@
     "wallpapers",
     "whiteDogData",
     "isekaiSaves",
+    "isekaiPresets",
     "pomodoroData",
     "regexRules",
     "mcpServers",
@@ -61,27 +63,26 @@
     "healthProfile",
     "homelandState",
     "fontStore",
-    "customBgm",
     "radioData",
-    "isekaiPresets",
+    "novelBooks",
+    "novelChapters",
+    "coReadBooks",
+    "coReadChapters",
+    "coReadSessions",
     "naiVibeCache",
     "_migration"
   ],
   "chunkedTables": {
-    "stickers": 3,
-    "messages": 185,
-    "tmStories": 3,
-    "imageStore": 3
+    "messages": 2,
+    "tmStories": 3
   },
   "completedTables": {
     "characters": true,
     "worldBooks": true,
-    "globalSettings": true,
     "kaomojis": true,
     "users": true,
     "userState": true,
     "userPosts": true,
-    "chatSettings": true,
     "favorites": true,
     "memory": true,
     "summaryEntries": true,
@@ -93,16 +94,13 @@
     "multiSceneCastSettings": true,
     "multiSceneSessionSummaries": true,
     "customNoises": true,
+    "customBgm": true,
     "flashMoments": true,
     "groupSettings": true,
     "userLinks": true,
     "userMessages": true,
-    "groupChats": true,
-    "xinsheng": true,
-    "pomodoroSessions": true,
-    "couplesData": true,
-    "stickerStore": true
+    "ttsAudio": true,
+    "groupChats": true
   },
-  "source": "auto",
   "inProgress": true
 }
