@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1787130235479,
+  "timestamp": 1787130238236,
   "appVersion": "6.9.30 (2026.07.20)",
   "tables": [
     "characters",
@@ -134,5 +134,16 @@
     "naiVibeCache": true,
     "_migration": true
   },
-  "inProgress": true
+  "skippedTables": [
+    "globalSettings",
+    "stickers",
+    "chatSettings",
+    "messages",
+    "multiSceneSessionSettings",
+    "forumData",
+    "calendarData",
+    "couplesData",
+    "imageStore"
+  ],
+  "inProgress": false
 }
