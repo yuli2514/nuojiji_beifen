@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1787130126797,
+  "timestamp": 1787130136183,
   "appVersion": "6.9.30 (2026.07.20)",
   "tables": [
     "characters",
@@ -116,7 +116,8 @@
     "isekaiPresets": true,
     "pomodoroData": true,
     "regexRules": true,
-    "mcpServers": true
+    "mcpServers": true,
+    "thinkingStore": true
   },
   "inProgress": true
 }
