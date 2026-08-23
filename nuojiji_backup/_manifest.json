@@ -1,9 +1,10 @@
 {
   "version": 6,
-  "timestamp": 1787473086615,
-  "appVersion": "auto-backup",
+  "timestamp": 1787473091430,
+  "appVersion": "6.9.41 (2026.08.23)",
   "tables": [
     "characters",
+    "friendRequests",
     "worldBooks",
     "globalSettings",
     "stickers",
@@ -17,7 +18,6 @@
     "memory",
     "summaryEntries",
     "callLogs",
-    "friendRequests",
     "roleStickers",
     "tmSessions",
     "tmStories",
@@ -28,6 +28,7 @@
     "multiSceneSummaries",
     "multiSceneSessionSummaries",
     "customNoises",
+    "customBgm",
     "flashMoments",
     "groupSettings",
     "userLinks",
@@ -52,6 +53,7 @@
     "wallpapers",
     "whiteDogData",
     "isekaiSaves",
+    "isekaiPresets",
     "pomodoroData",
     "regexRules",
     "mcpServers",
@@ -63,17 +65,25 @@
     "healthProfile",
     "homelandState",
     "fontStore",
-    "customBgm",
     "radioData",
-    "isekaiPresets",
+    "novelBooks",
+    "novelChapters",
+    "coReadBooks",
+    "coReadChapters",
+    "coReadSessions",
     "naiVibeCache",
+    "walletTransactions",
+    "walletData",
+    "shopOrders",
+    "shopData",
+    "charLifePlans",
     "_migration"
   ],
   "chunkedTables": {
-    "stickers": 3,
+    "stickers": 9,
     "messages": 265,
     "tmStories": 3,
-    "imageStore": 3
+    "imageStore": 8
   },
   "completedTables": {
     "characters": true,
@@ -134,8 +144,8 @@
     "isekaiPresets": true,
     "naiVibeCache": true,
     "_migration": true,
-    "friendRequests": true
+    "friendRequests": true,
+    "novelBooks": true
   },
-  "source": "auto",
   "inProgress": true
 }
