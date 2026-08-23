@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1787473137012,
+  "timestamp": 1787473141200,
   "appVersion": "6.9.41 (2026.08.23)",
   "tables": [
     "characters",
@@ -156,5 +156,13 @@
     "shopData": true,
     "charLifePlans": true
   },
-  "inProgress": true
+  "skippedTables": [
+    "messages",
+    "tmStories",
+    "multiSceneSessionSettings",
+    "imageStore",
+    "fontStore",
+    "radioData"
+  ],
+  "inProgress": false
 }
