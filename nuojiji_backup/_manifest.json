@@ -1,7 +1,7 @@
 {
   "version": 6,
-  "timestamp": 1787528667679,
-  "appVersion": "auto-backup",
+  "timestamp": 1787528671407,
+  "appVersion": "6.9.45 (2026.08.23)",
   "tables": [
     "characters",
     "friendRequests",
@@ -152,6 +152,5 @@
     "friendRequests": true,
     "customGameSaves": true
   },
-  "source": "auto",
   "inProgress": true
 }
