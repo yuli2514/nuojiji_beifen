@@ -1,9 +1,10 @@
 {
   "version": 6,
-  "timestamp": 1787417567863,
-  "appVersion": "auto-backup",
+  "timestamp": 1787470036061,
+  "appVersion": "6.9.41 (2026.08.23)",
   "tables": [
     "characters",
+    "friendRequests",
     "worldBooks",
     "globalSettings",
     "stickers",
@@ -27,6 +28,7 @@
     "multiSceneSummaries",
     "multiSceneSessionSummaries",
     "customNoises",
+    "customBgm",
     "flashMoments",
     "groupSettings",
     "userLinks",
@@ -45,11 +47,13 @@
     "goingOutAreas",
     "mapRasterCache",
     "customGames",
+    "customGameSaves",
     "customWidgetTemplates",
     "customWidgetState",
     "wallpapers",
     "whiteDogData",
     "isekaiSaves",
+    "isekaiPresets",
     "pomodoroData",
     "regexRules",
     "mcpServers",
@@ -61,10 +65,18 @@
     "healthProfile",
     "homelandState",
     "fontStore",
-    "customBgm",
     "radioData",
-    "isekaiPresets",
+    "novelBooks",
+    "novelChapters",
+    "coReadBooks",
+    "coReadChapters",
+    "coReadSessions",
     "naiVibeCache",
+    "walletTransactions",
+    "walletData",
+    "shopOrders",
+    "shopData",
+    "charLifePlans",
     "_migration"
   ],
   "chunkedTables": {
@@ -133,6 +145,5 @@
     "naiVibeCache": true,
     "_migration": true
   },
-  "source": "auto",
-  "inProgress": false
+  "inProgress": true
 }
