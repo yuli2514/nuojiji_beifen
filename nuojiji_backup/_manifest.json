@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1787573593612,
+  "timestamp": 1787573600663,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -150,7 +150,8 @@
     "naiVibeCache": true,
     "_migration": true,
     "friendRequests": true,
-    "customGameSaves": true
+    "customGameSaves": true,
+    "novelBooks": true
   },
   "source": "auto",
   "inProgress": true
