@@ -1,7 +1,7 @@
 {
   "version": 6,
-  "timestamp": 1788654432924,
-  "appVersion": "auto-backup",
+  "timestamp": 1788654435320,
+  "appVersion": "6.9.69 (2026.09.06)",
   "tables": [
     "characters",
     "friendRequests",
@@ -89,7 +89,7 @@
     "_migration"
   ],
   "chunkedTables": {
-    "stickers": 2,
+    "stickers": 7,
     "messages": 286,
     "tmStories": 3,
     "imageStore": 5,
@@ -175,6 +175,5 @@
     "customCalendars": true,
     "novelVolumes": true
   },
-  "source": "auto",
   "inProgress": true
 }
