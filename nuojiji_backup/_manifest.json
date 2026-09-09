@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1788969921473,
+  "timestamp": 1788969930259,
   "appVersion": "6.9.71 (2026.09.07)",
   "tables": [
     "characters",
@@ -92,7 +92,7 @@
   ],
   "chunkedTables": {
     "stickers": 7,
-    "messages": 277,
+    "messages": 278,
     "tmStories": 3,
     "imageStore": 5,
     "stickerStore": 4
