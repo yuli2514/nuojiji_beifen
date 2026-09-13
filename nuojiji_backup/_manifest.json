@@ -1,7 +1,7 @@
 {
   "version": 6,
-  "timestamp": 1789302908844,
-  "appVersion": "6.9.76 (2026.09.13)",
+  "timestamp": 1789302906837,
+  "appVersion": "auto-backup",
   "tables": [
     "characters",
     "friendRequests",
@@ -187,5 +187,6 @@
     "deliveryOrders": true,
     "deliveryData": true
   },
+  "source": "auto",
   "inProgress": true
 }
