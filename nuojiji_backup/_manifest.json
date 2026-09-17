@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1789634735324,
+  "timestamp": 1789649773430,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -47,7 +47,12 @@
     "goingOutState",
     "goingOutAreas",
     "goingOutLogs",
+    "jiliData",
+    "jiliCreators",
+    "jiliPosts",
+    "jiliDMs",
     "mapRasterCache",
+    "shareLinkMeta",
     "customGames",
     "customGameSaves",
     "customWidgetTemplates",
@@ -188,5 +193,5 @@
     "deliveryData": true
   },
   "source": "auto",
-  "inProgress": false
+  "inProgress": true
 }
