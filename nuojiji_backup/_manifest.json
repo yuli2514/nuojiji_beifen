@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1791030313675,
+  "timestamp": 1791030334377,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -122,7 +122,8 @@
     "summaryEntries": 2,
     "ttsAudio": 10,
     "fontStore": 7,
-    "xinshengRounds": 2
+    "xinshengRounds": 2,
+    "rowFieldItems": 1
   },
   "completedTables": {
     "characters": true,
